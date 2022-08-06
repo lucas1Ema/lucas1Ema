@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lucas1Ema
-- 👀 I’m interested man ...
+- 👀 I’m interested men...
 
 <!---
 lucas1Ema/lucas1Ema is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
